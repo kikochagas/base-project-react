@@ -1,0 +1,12 @@
+{
+    "IndexPage": {
+      "title": "Bem vindos!",
+      "description": "Descrição em Português de Bem vindos!"
+    },
+    "Navigation": {
+      "home": "Pagina Inicial"
+    },
+    "Footer": {
+      "copyright": "(c) 2024 Todos direitos reservados"
+    }
+  }

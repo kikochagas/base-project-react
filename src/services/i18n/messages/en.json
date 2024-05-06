@@ -1,0 +1,12 @@
+{
+    "IndexPage": {
+      "title": "Hello world!",
+      "description": "Description in english of the Hello world!"
+    },
+    "Navigation": {
+      "home": "Home"
+    },
+    "Footer": {
+      "copyright": "(c) 2024 All rigth reservation"
+    }
+  }
